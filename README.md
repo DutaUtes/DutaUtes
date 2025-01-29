@@ -1,4 +1,14 @@
-## Hi there 👋
+# Halo semua! 
+
+Perkenalkan nama saya **Duta Suksesi Fathurrahman**.<br>
+
+Saya seorang **Pelajar** di [SMK Wikrama Bogor](https://www.linkedin.com/school/smkwikramabogor/posts/?feedView=all).<br>
+
+Saya sebagai siswa jurusam Pengembangan Perangkat Lunak dan Gim (PPLG).<br>
+
+<!-- Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br> -->
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/duta-suksesi-fathurrahman-7a61962b5/)ku ya.
 
 <!--
 **DutaUtes/DutaUtes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
